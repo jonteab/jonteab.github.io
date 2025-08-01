@@ -1,25 +1,25 @@
-# Movie Finder - Movies & Shows Support
+# App Support
 
-Thank you for using Movie Finder - Movies & Shows!
+Thank you for using one of our apps!
 
-If you need help or have any questions, feel free to reach out:
+If you have any questions, feedback, or need assistance, feel free to reach out:
 
-📧 Email: jonte.developer@gmail.com 
-📄 FAQ & Updates: [https://github.com/jonteab/moviefinder-support](https://github.com/jonteab/moviefinder-support)
+📧 **Email:** [jonte.developer@gmail.com](mailto:jonte.developer@gmail.com)
 
 ---
 
-# Privacy Policy
+## Privacy Policy
 
-**Effective Date:** [July 2, 2025]
+**Effective Date:** July 2, 2025
 
-Movie Finder - Movies & Shows does not collect, store, or share any personal data.
+Our apps do **not** collect, store, or share any personal data.
 
-We do not use cookies, analytics, or third-party tracking tools.  
-All data created by you stays on your device and is not transmitted or stored externally.
+We do **not** use cookies, analytics, or third-party tracking tools.  
+All data created by you stays **on your device** and is never transmitted or stored externally.
 
-If the app requires permission to access camera, microphone, or location, it will only be used for core app functionality and never shared.
+If the app requests access to the **camera**, **microphone**, **location**, or other device features, it is only to support **core functionality** and never for tracking or sharing purposes.
 
-If you have any questions about your privacy, please contact us at **jonte.developer@gmail.com**.
+If you have any privacy-related concerns, feel free to contact us at  
+📧 [jonte.developer@gmail.com](mailto:jonte.developer@gmail.com)
 
 ---
